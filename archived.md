@@ -16,7 +16,7 @@ Sunset - Project got closed
 - [Cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser. (Deferred)
 - [uGet](https://ugetdm.com/) - Lightweight and full-featured download manager. 🪟 🍎 🐧 🟢  (Unmaintained)
 - [Aurora Editor](https://auroraeditor.com) - Fast, lightweight editor with modern design and syntax highlighting. 🍎 [🟢](https://github.com/AuroraEditor/AuroraEditor) (Sunset)
-- [AIMP](https://aimp.ru) - Music player with a clean interface and powerful features. 🪟 (Subpar)
+- [AIMP](https://aimp.ru) - Music player with a clean interface and powerful features. 🪟 🤖 (Subpar)
 - [Zrythm](https://zrythm.org) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧 (Deferred)
 - [higan](https://higan.dev) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧 (Deferred)
 - [Yandex](https://browser.yandex.com/) - 🪟 🍎 🐧 (Subpar)

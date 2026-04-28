@@ -81,7 +81,6 @@
 ### Audio Players
 
 - [VLC for Mobile](https://www.videolan.org/vlc) - Supports a wide range of audio formats and offers powerful playback controls. 🤖 🍎
-- [AIMP](http://www.aimp.ru) - Customizable audio player with a built-in equalizer and playlist management. 🤖
 - [Musicolet](https://krosbits.in/musicolet) - Lightweight offline player with multi-queue support and no ads. 🤖
 - [Foobar2000](https://foobar2000.org) - Minimalist player supporting advanced playback features and customization. 🤖 🍎
 - [Retro Music](https://retromusic.app) - A cleen music player made for android with speed controls and multiple themes and customizations. 🤖

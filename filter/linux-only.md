@@ -12,15 +12,11 @@
 | 🐧   | Available on Linux   |      |                               |
 
 > [!IMPORTANT]
-> Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
+> Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
-> [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
+> Want to add something? [contributing.md](contributing.md) <br>
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28)
 >
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
-
-> [!IMPORTANT]
 > **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
 
 ## Contents
@@ -122,7 +118,6 @@
 - [Qtractor](https://qtractor.org) - Multi-track DAW for Linux for audio and MIDI recording. 🐧
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
-- [Zrythm](https://zrythm.org) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
 
 ## Browsers
 
@@ -365,7 +360,6 @@
 - [ScummVM](https://scummvm.org) - Emulator focused on classic point-and-click adventure games. 🪟 🍎 🐧
 - [Citra](https://citra-emu.org) - Nintendo 3DS emulator with great compatibility and performance. 🪟 🍎 🐧
 - [xemu](https://xemu.app) - Original Xbox emulator for playing classic Xbox games on modern systems. 🪟 🍎 🐧
-- [higan](https://higan.dev) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
 - [Mednafen](https://mednafen.github.io) - Multi-system emulator with a focus on precision and compatibility. 🪟 🐧
 - [MelonDS](https://melonds.kuribo64.net) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧

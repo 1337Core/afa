@@ -12,15 +12,11 @@
 | 🐧   | Available on Linux   |      |                               |
 
 > [!IMPORTANT]
-> Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
+> Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
-> [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
+> Want to add something? [contributing.md](contributing.md) <br>
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28)
 >
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
-
-> [!IMPORTANT]
 > **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
 
 ## Contents
@@ -124,7 +120,6 @@
 - [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Cross platform XM tracker. 🪟 🍎 🐧 🟢
 - [Stargate DAW](https://github.com/stargatedaw/stargate) - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 - [Tracktion T7](https://tracktion.com/products/t7-daw) - DAW for music production with advanced editing features. 🪟 🍎 🐧
-- [Zrythm](https://zrythm.org) - DAW for music production with an easy-to-use interface. 🪟 🍎 🐧
 
 ## Browsers
 
@@ -204,6 +199,7 @@
 ### Copy and Move
 
 - [TeraCopy](https://codesector.com/teracopy) - Copy and move multiple files. 🪟 🍎
+- [Blip](https://blip.net) - Direct file transfer app with unlimited file sizes, folder support, and transfer resume. 🪟 🍎 ⭐
 
 ### Sync and Clone
 
@@ -342,7 +338,6 @@
 
 - [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐
 - [Atom](https://atom.io) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 [🟢](https://github.com/atom/atom)
-- [Aurora Editor](https://auroraeditor.com) - Fast, lightweight editor with modern design and syntax highlighting. 🍎 [🟢](https://github.com/AuroraEditor/AuroraEditor)
 - [Bluefish](https://bluefish.openoffice.nl/index.html) - Web developer editor supporting HTML, CSS, JavaScript, and PHP with built-in preview. 🪟 🍎 🐧 [🟢](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish)
 - [Brackets](https://brackets.io) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 [🟢](https://github.com/brackets-cont/brackets)
 - [CodeEdit](https://codeedit.app) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 [🟢](https://github.com/CodeEditApp/CodeEdit)
@@ -414,7 +409,6 @@
 - [Citra](https://citra-emu.org) - Nintendo 3DS emulator with great compatibility and performance. 🪟 🍎 🐧
 - [OpenEmu](https://openemu.org) - Multi-system emulator with a clean interface and support for a variety of retro systems. 🍎
 - [xemu](https://xemu.app) - Original Xbox emulator for playing classic Xbox games on modern systems. 🪟 🍎 🐧
-- [higan](https://higan.dev) - Multi-system emulator with high accuracy, supporting consoles like SNES and GBA. 🪟 🍎 🐧
 - [MelonDS](https://melonds.kuribo64.net) - Nintendo DS emulator with accurate performance and Wi-Fi support. 🪟 🍎 🐧
 - [BSNES](https://bsnes.dev) - SNES emulator with cycle-accurate emulation for high compatibility. 🪟 🍎 🐧
 
@@ -438,6 +432,7 @@
 - [Monodraw](https://monodraw.helftone.com) - ASCII art editor for creating and editing text-based drawings. 🍎
 - [Pencil2D](https://pencil2d.org) - Simple and intuitive tool for creating 2D hand-drawn animations. 🪟 🍎 🐧
 - [Pixen](https://pixenapp.com/mac) - Native pixel art and animation editor designed. 🍎
+- [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
 
 ## 3D Modeling and Animation
 
@@ -536,6 +531,7 @@
 - [HandBrake](https://handbrake.fr) - Video transcoder with preset profiles for device compatibility. 🪟 🍎 🐧 🟢
 - [Shutter Encoder](https://shutterencoder.com) - Supports video, audio, and image conversion with extra processing tools. 🪟 🍎
 - [VidCoder](https://vidcoder.net) - User-friendly HandBrake-based transcoder with batch processing. 🪟 🍎 🟢
+- [Adapter](https://macroplant.com/adapter/video-converter) - Media converter app for video, audio, and images on Mac and Windows. 🪟 🍎
 
 ## VPN and Proxy Tools
 
@@ -565,6 +561,7 @@
 - [Rocket](https://matthewpalmer.net/rocket) - Type and insert emojis anywhere using a colon (:). 🍎
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
+- [RightLayout](https://alexchernysh.com/rightlayout) - AI keyboard layout fixer for macOS that auto-corrects wrong layout (EN/RU/HE) as you type using local CoreML. 🍎
 
 ### Clipboard Management
 

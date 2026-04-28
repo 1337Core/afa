@@ -11,13 +11,11 @@
 | 🍎 | Available on iOS       | ⭐   | Recommended by us    |
 
 > [!IMPORTANT]
-> Maintaining this project requires a lot of time. [Donate to support me!](https://patreon.com/axorax) ❤️
+> Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
-> [Discord server](https://discord.gg/nKUFghjXQu) — [Patreon](https://patreon.com/axorax)
+> Want to add something? [contributing.md](contributing.md) <br>
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28)
 >
-> Want to add something to the list? Check -> [contributing.md](contributing.md)
->
-> If you want to become a maintainer, check this -> https://github.com/Axorax/awesome-free-apps/issues/28
 
 ## Contents
 
@@ -299,6 +297,7 @@
 ## Health and Wellness
 
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling. 🤖 🍎
+- [Euki](https://eukiapp.org) - Privacy-first period tracker with sexual health resources and local-only data storage. 🤖 🍎 [🟢](https://github.com/Euki-Inc/Euki-Android)
 
 ## Utility
 
